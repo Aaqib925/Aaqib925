@@ -6,6 +6,7 @@
   <a href="https://github.com/Aaqib925"><img src="https://img.shields.io/github/followers/Aaqib925.svg?label=GitHub&style=social" alt="GitHub"></a>  
 </p>
 
+<br>
 
 Here are some ideas to get you started:
 
