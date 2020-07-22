@@ -7,9 +7,6 @@
 </p>
 
 
-<!--
-**Aaqib925/Aaqib925** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Python and C++
@@ -21,3 +18,6 @@ Here are some ideas to get you started:
 - Student of Bachelors of Computer Science 😎.
 
 ## Have a great day! 🤍
+
+<!--
+**Aaqib925/Aaqib925** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
