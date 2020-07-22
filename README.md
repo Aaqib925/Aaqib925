@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Python and C++
 - 🌱 I’m currently learning C++.
 - 💬 Ask me how to stay motivated.
-- 📫 How to reach me: muhammadaaqib925@gmail.com
+- 📫 How to reach me: muhammadaaqib925@gmail.com or
                       <a href="https://www.linkedin.com/in/aaqib-nazir-a65110197/">Linkedin</a>
 - ⚡ Fun fact: I think alot 😄
 - Student of Bachelors of Computer Science 😎.
