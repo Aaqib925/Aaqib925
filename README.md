@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 - Student of Bachelors of Computer Science 😎.
 
 ## Have a great day! 🤍
-
+[![GitHub Status](https://github-readme-stats.vercel.app/api?username=Aaqib925&&show_icons=true&theme=tokyonight)]
 <!--
-**Aaqib925/Aaqib925** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aaqib925/Aaqib925** is a ✨ _special_ ✨ repository be
