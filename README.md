@@ -7,11 +7,10 @@
 </p>
 <a href="https://github.com/Aaqib925">
     <img src="https://komarev.com/ghpvc/?username=Aaqib925">
-	[![Profile Views](https://rushter.com/counter.svg)]
 </a>
 
 <br>
-
+[![Profile Views](https://rushter.com/counter.svg)]
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Python and C++
