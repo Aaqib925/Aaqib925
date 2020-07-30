@@ -7,6 +7,7 @@
 </p>
 <a href="https://github.com/Aaqib925">
     <img src="https://komarev.com/ghpvc/?username=Aaqib925">
+	![Profile Views](https://rushter.com/counter.svg)
 </a>
 <br>
 
