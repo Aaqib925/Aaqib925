@@ -10,7 +10,6 @@
 </a>
 
 <br>
-[![Hi there](https://rushter.com/counter.svg)](https://rushter.com/blog/github-profile-markdown/)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Python and C++
