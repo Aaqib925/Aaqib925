@@ -12,8 +12,8 @@
 <br>
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Python and C++
-- 🌱 I’m currently learning C++.
+- 🔭 I’m current working using MERN stack.
+- 👨‍💻 Competitive programmer.
 - 💬 Ask me about how to get started with development.
 - 📫 How to reach me: muhammadaaqib925@gmail.com or
                       <a href="https://www.linkedin.com/in/aaqib-nazir-a65110197/">Linkedin</a>
