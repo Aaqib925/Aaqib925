@@ -12,8 +12,10 @@
 <br>
 Here are some ideas to get you started:
 
-- 🔭 I’m current working as Associate Software Engineer at Koderlabs.
-- 👨‍💻 Competitive programmer and MERN Stack.
+- 🔭 I’m current working as Software Engineer at Airlift.
+- 🔭 Full Stack Developer at Koderlabs.
+- 🏠 Freelancer at Upwork.
+- 👨‍💻 Competitive programmer and MERN Stack with React Native.
 - 💬 Ask me about how to get started with development.
 - 📫 How to reach me: muhammadaaqib925@gmail.com or
                       <a href="https://www.linkedin.com/in/aaqib-nazir-a65110197/">Linkedin</a>
