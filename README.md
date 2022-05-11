@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m current working as Software Engineer at Airlift.
 - 🔭 Full Stack Developer at Koderlabs.
-- 🏠 Freelancer at Upwork.
+- 🏠 Freelancer at  <a href="https://www.upwork.com/freelancers/~01a56d090ef5d1029e/">Upwork</a>.
 - 👨‍💻 Competitive programmer and MERN Stack with React Native.
 - 💬 Ask me about how to get started with development.
 - 📫 How to reach me: muhammadaaqib925@gmail.com or
