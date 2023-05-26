@@ -12,8 +12,9 @@
 <br>
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working as Software Engineer at Koderlabs || Upwork || Ex-Airlift.
+- 🔭 I’m currently working as Full Stack Engineer at Upwork, Switch || Ex-Koderlabs || Ex-Airlift.
 - 🔭 Full Stack Developer at Koderlabs.
+- My <a href="aaqib.dev">Website</a>.
 - 🏠 Freelancer at  <a href="https://www.upwork.com/freelancers/~01a56d090ef5d1029e/">Upwork</a>.
 - 👨‍💻 Competitive programmer and MERN Stack with React Native.
 - 💬 Ask me about how to get started with development.
