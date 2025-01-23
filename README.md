@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 - 🏠 Freelancer at  <a href="https://www.upwork.com/freelancers/~01a56d090ef5d1029e/">Upwork</a>.
 - 👨‍💻 Competitive programmer and MERN Stack with React Native.
 - 💬 Ask me about how to get started with development.
-- 📫 How to reach me: muhammadaaqib925@gmail.com or
-                      <a href="https://www.linkedin.com/in/aaqib-nazir-a65110197/">Linkedin</a>
 - ⚡ Fun fact: I think alot 😄
 - Student of Bachelors of Computer Science 😎.
 ## 🔧 Technologies
