@@ -1,10 +1,5 @@
 ### Hi there 👋, Aaqib Nazir Here.
 <br>
-<p align="center">
-	<a href="https://twitter.com/aaqib925"><img src="https://img.shields.io/twitter/follow/aaqib925?label=@aaqib925&style=social" alt="Twitter"></a>  
-	<a href="https://www.linkedin.com/in/aaqib925/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>  
-  <a href="https://github.com/Aaqib925"><img src="https://img.shields.io/github/followers/Aaqib925.svg?label=GitHub&style=social" alt="GitHub"></a>  
-</p>
 <a href="https://github.com/Aaqib925">
     <img src="https://komarev.com/ghpvc/?username=Aaqib925">
 </a>
@@ -13,7 +8,6 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working as Full Stack Engineer at Upwork, Switch || Ex-Koderlabs || Ex-Airlift.
-- My <a href="aaqib.dev">Website</a>.
 - 🏠 Freelancer at  <a href="https://www.upwork.com/freelancers/~01a56d090ef5d1029e/">Upwork</a>.
 - 👨‍💻 Competitive programmer and MERN Stack with React Native.
 - 💬 Ask me about how to get started with development.
