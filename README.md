@@ -1,1 +1,1 @@
-[![Toptal - Top 3% Talent](https://img.shields.io/badge/Toptal-Top_3%25_Talent-204ecf?style=for-the-badge&logo=toptal&logoColor=white)](https://www.toptal.com/developers/resume/muhammad-aqib-nazeer#L3KRaJ)
+
